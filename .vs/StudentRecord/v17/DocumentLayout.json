@@ -3,40 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\regie\\source\\repos\\StudentRecord\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|c:\\users\\regie\\source\\repos\\studentrecord\\_repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:_repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|c:\\users\\regie\\source\\repos\\studentrecord\\_repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:_repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|c:\\users\\regie\\source\\repos\\studentrecord\\presenters\\studentpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:presenters\\studentpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|C:\\Users\\regie\\source\\repos\\StudentRecord\\views\\studentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:views\\studentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|C:\\Users\\regie\\source\\repos\\StudentRecord\\models\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:models\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|C:\\Users\\regie\\source\\repos\\StudentRecord\\views\\studentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:views\\studentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|C:\\Users\\regie\\source\\repos\\StudentRecord\\views\\istudentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|C:\\Users\\regie\\source\\repos\\StudentRecord\\presenters\\studentpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:presenters\\studentpresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|c:\\users\\regie\\source\\repos\\studentrecord\\views\\istudentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:views\\istudentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|C:\\Users\\regie\\source\\repos\\StudentRecord\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|c:\\users\\regie\\source\\repos\\studentrecord\\views\\studentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:views\\studentview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|C:\\Users\\regie\\source\\repos\\StudentRecord\\views\\studentview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:views\\studentview.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|c:\\users\\regie\\source\\repos\\studentrecord\\_repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:_repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|c:\\users\\regie\\source\\repos\\studentrecord\\presenters\\common\\modeldatavalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:presenters\\common\\modeldatavalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|c:\\users\\regie\\source\\repos\\studentrecord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|c:\\users\\regie\\source\\repos\\studentrecord\\_repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F27F17-02CC-47B9-9BF3-E5DEFFC55D2C}|StudentRecord.csproj|solutionrelative:_repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,81 +42,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\_Repository\\StudentRepository.cs",
               "RelativeDocumentMoniker": "_Repository\\StudentRepository.cs",
               "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\_Repository\\StudentRepository.cs",
               "RelativeToolTip": "_Repository\\StudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAABoAAAAAAAAAAAAqwDsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T01:24:17.536Z",
+              "WhenOpened": "2024-06-02T08:16:31.458Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\_Repository\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "_Repository\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\_Repository\\BaseRepository.cs",
-              "RelativeToolTip": "_Repository\\BaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T01:23:00.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentPresenter.cs",
-              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Presenters\\StudentPresenter.cs",
-              "RelativeDocumentMoniker": "Presenters\\StudentPresenter.cs",
-              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Presenters\\StudentPresenter.cs",
-              "RelativeToolTip": "Presenters\\StudentPresenter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T17:15:39.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "StudentView.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\StudentView.Designer.cs",
-              "RelativeDocumentMoniker": "Views\\StudentView.Designer.cs",
-              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\StudentView.Designer.cs",
-              "RelativeToolTip": "Views\\StudentView.Designer.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAuwHoAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:36:24.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "StudentView.cs [Design]",
               "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\StudentView.cs",
               "RelativeDocumentMoniker": "Views\\StudentView.cs",
-              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\StudentView.cs [Design]",
-              "RelativeToolTip": "Views\\StudentView.cs [Design]",
+              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\StudentView.cs [Design]*",
+              "RelativeToolTip": "Views\\StudentView.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T01:40:37.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IStudentView.cs",
-              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\IStudentView.cs",
-              "RelativeDocumentMoniker": "Views\\IStudentView.cs",
-              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\IStudentView.cs",
-              "RelativeToolTip": "Views\\IStudentView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T16:25:11.467Z"
+              "WhenOpened": "2024-06-01T01:40:37.572Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -128,35 +79,77 @@
               "Title": "StudentView.cs",
               "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\StudentView.cs",
               "RelativeDocumentMoniker": "Views\\StudentView.cs",
-              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\StudentView.cs",
-              "RelativeToolTip": "Views\\StudentView.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBcAAAAyAAAA",
+              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\StudentView.cs*",
+              "RelativeToolTip": "Views\\StudentView.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwCEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T15:21:57.954Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Models\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "Models\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Models\\IStudentRepository.cs",
-              "RelativeToolTip": "Models\\IStudentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T01:30:08.744Z"
+              "WhenOpened": "2024-06-02T05:19:10.449Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Models\\Student.cs",
-              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Models\\Student.cs",
-              "RelativeToolTip": "Models\\Student.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAqwEMAAAAJAAAA",
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\_Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "_Repository\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\_Repository\\BaseRepository.cs",
+              "RelativeToolTip": "_Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T01:18:45.131Z"
+              "WhenOpened": "2024-06-02T07:32:18.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentView.cs",
+              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\IStudentView.cs",
+              "RelativeDocumentMoniker": "Views\\IStudentView.cs",
+              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Views\\IStudentView.cs",
+              "RelativeToolTip": "Views\\IStudentView.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:21:06.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Presenters\\StudentPresenter.cs",
+              "RelativeDocumentMoniker": "Presenters\\StudentPresenter.cs",
+              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Presenters\\StudentPresenter.cs",
+              "RelativeToolTip": "Presenters\\StudentPresenter.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAgwDsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:15:39.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModelDataValidation.cs",
+              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Presenters\\Common\\ModelDataValidation.cs",
+              "RelativeDocumentMoniker": "Presenters\\Common\\ModelDataValidation.cs",
+              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Presenters\\Common\\ModelDataValidation.cs",
+              "RelativeToolTip": "Presenters\\Common\\ModelDataValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:05:33.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\regie\\source\\repos\\StudentRecord\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:36:56.369Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -1,0 +1,10 @@
+C:\Users\regie\source\repos\StudentRecord\bin\Debug\StudentRecord.exe.config
+C:\Users\regie\source\repos\StudentRecord\bin\Debug\StudentRecord.exe
+C:\Users\regie\source\repos\StudentRecord\bin\Debug\StudentRecord.pdb
+C:\Users\regie\source\repos\StudentRecord\obj\Debug\StudentRecord.csproj.AssemblyReference.cache
+C:\Users\regie\source\repos\StudentRecord\obj\Debug\StudentRecord.Properties.Resources.resources
+C:\Users\regie\source\repos\StudentRecord\obj\Debug\StudentRecord.Views.StudentView.resources
+C:\Users\regie\source\repos\StudentRecord\obj\Debug\StudentRecord.csproj.GenerateResource.cache
+C:\Users\regie\source\repos\StudentRecord\obj\Debug\StudentRecord.csproj.CoreCompileInputs.cache
+C:\Users\regie\source\repos\StudentRecord\obj\Debug\StudentRecord.exe
+C:\Users\regie\source\repos\StudentRecord\obj\Debug\StudentRecord.pdb

@@ -1,8 +1,13 @@
-﻿using System;
+﻿using StudentRecord._Repository;
+using StudentRecord.Models;
+using StudentRecord.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Configuration;
+using StudentRecord.Presenters;
 
 namespace StudentRecord
 {
@@ -16,7 +21,11 @@ namespace StudentRecord
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            string sqlConnectionString = ConfigurationManager.ConnectionStrings["SqlConnection"].ConnectionString;
+            IStudentView view = new StudentView();
+            IStudentRepository repo = new StudentRepository(sqlConnectionString);
+            new StudentPresenter(view, repo);
+            Application.Run((Form)view);
         }
     }
 }
